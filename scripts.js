@@ -15,8 +15,13 @@ function fibonacci(n) {
   }
 }
 
-class Armazem {
-    Armazem(){
-      carnes
-    }
+//inicio do reste sobre DOM e árvore DOM
+
+var carro = { 
+  nome: "fox", 
+  marca: "renaut", 
+  cor: "verde", 
 }
+ 
+carro.nome = carro.nome.replace("fox","kwid")
+
